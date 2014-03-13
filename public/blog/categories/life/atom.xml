@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[It's not all about PORK]]></title>
-  <link href="porkbelly.herokuapp.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Life | It's not all about PORK]]></title>
+  <link href="porkbelly.herokuapp.com/blog/categories/life/atom.xml" rel="self"/>
   <link href="porkbelly.herokuapp.com/"/>
   <updated>2014-03-13T16:31:19-07:00</updated>
   <id>porkbelly.herokuapp.com/</id>
@@ -24,7 +24,7 @@
 <p>Where is it?</p>
 
 
-<p><img class="left" src="http://placekitten.com/320/250" title="Place Kitten #2" ></p>
+<p><img class="left <a" src="href="http://placekitten.com/320/250">http://placekitten.com/320/250</a>" title="Place Kitten #2" ></p>
 ]]></content>
   </entry>
   

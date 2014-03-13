@@ -1,0 +1,12 @@
+---
+layout: post
+title: "For real?"
+date: 2014-03-13 16:07:42 -0700
+comments: true
+categories: 
+- Life
+---
+
+<h1>Missing Plane MH370</h1>
+<p>Where is it?</p>
+{% img left http://placekitten.com/320/250 Place Kitten #2 %}
