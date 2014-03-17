@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: porkbelly.herokuapp.com
+url: http://porkbelly.herokuapp.com
 title: It's not all about PORK
 subtitle: A blog from a meat lover.
 author: Justin Jia

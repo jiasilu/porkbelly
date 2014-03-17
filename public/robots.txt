@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: porkbelly.herokuapp.com/sitemap.xml 
+Sitemap: http://porkbelly.herokuapp.com/sitemap.xml 

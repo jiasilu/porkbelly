@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>porkbelly.herokuapp.com/blog/for-real/</loc>
+        <loc>http://porkbelly.herokuapp.com/blog/for-real/</loc>
         <lastmod>2014-03-16T21:07:47-07:00</lastmod>
     </url>
     <url>
-        <loc>porkbelly.herokuapp.com/blog/archives/</loc>
+        <loc>http://porkbelly.herokuapp.com/blog/archives/</loc>
         <lastmod>2014-03-16T21:07:47-07:00</lastmod>
     </url>
     <url>
-        <loc>porkbelly.herokuapp.com/</loc>
+        <loc>http://porkbelly.herokuapp.com/</loc>
         <lastmod>2014-03-16T21:07:47-07:00</lastmod>
     </url>
     <url>
-        <loc>porkbelly.herokuapp.com/robots.txt</loc>
+        <loc>http://porkbelly.herokuapp.com/robots.txt</loc>
         <lastmod>2014-03-16T12:46:42-07:00</lastmod>
     </url>
 </urlset>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Life | It's not all about PORK]]></title>
-  <link href="porkbelly.herokuapp.com/blog/categories/life/atom.xml" rel="self"/>
-  <link href="porkbelly.herokuapp.com/"/>
-  <updated>2014-03-16T22:27:57-07:00</updated>
-  <id>porkbelly.herokuapp.com/</id>
+  <link href="http://porkbelly.herokuapp.com/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://porkbelly.herokuapp.com/"/>
+  <updated>2014-03-16T22:45:46-07:00</updated>
+  <id>http://porkbelly.herokuapp.com/</id>
   <author>
     <name><![CDATA[Justin Jia]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Malaysia Airlines Flight Missing]]></title>
-    <link href="porkbelly.herokuapp.com/blog/for-real/"/>
+    <link href="http://porkbelly.herokuapp.com/blog/for-real/"/>
     <updated>2014-03-16T13:07:42-07:00</updated>
-    <id>porkbelly.herokuapp.com/blog/for-real</id>
+    <id>http://porkbelly.herokuapp.com/blog/for-real</id>
     <content type="html"><![CDATA[<p><img src="/images/post/sunrise-blend.jpg" title="Sunrise" ></p>
 
 <h2>9 days have passed, we&rsquo;re still waiting for you coming back home.</h2>
